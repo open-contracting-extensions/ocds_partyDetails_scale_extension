@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "Organization": {
+      "properties": {
+        "details":{
+            "description":"Additional classification information about parties can be provided using partyDetail extensions that define particular properties and classification schemes.",
+            "type":["object","null"],
+            "properties":{
+                "scale":{
+                    "title":"Scale",
+                    "description":"For commercial organization's, is this a micro (micro), Small or Medium Enterprise (sme) or large (large) entity according to the definitions used by the procuring entity or buyer. This field can be left blank if no such concepts apply.",
+                    "type":["string","null"],
+                    "enum": ["micro","sme","large",""]
+                }
+            }
+        }
+      }
+    }
+  }
+}
