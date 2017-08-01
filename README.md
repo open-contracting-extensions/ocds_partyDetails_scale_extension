@@ -7,7 +7,7 @@ The ```scale``` field should be included in a release at ```parties/details/scal
 
 ## Scale
 
-The ```scale``` property can be used to indicate the size or scale of a commercial organisation. 
+The ```scale``` property can be used to indicate the size or scale of a commercial organization. 
 
 This is a metric used by a number of procurement statistics. For example, to calculate the share of procurement going to micro, small or medium enterprises. 
 
@@ -17,7 +17,7 @@ The extension uses a fixed codelist with the following values:
 * sme
 * large
 
-The extension does not define these terms. The exact definition of each is to be provided by the publishing organisation, and in general should be the definition used in the law or regulations of the procuring entity or buyer. 
+The extension does not define these terms. The exact definition of each is to be provided by the publishing organization, and in general should be the definition used in the law or regulations of the procuring entity or buyer. 
 
 Laws and regulations vary as to the exact definition of these terms. The OECD [provide a relevant glossary definition here](https://stats.oecd.org/glossary/detail.asp?ID=3123).
 

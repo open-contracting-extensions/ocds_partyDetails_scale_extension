@@ -1,6 +1,6 @@
 {
   "name": "Party Scale",
-  "description": "For classifying organisations as micro, sme or large.",
+  "description": "For classifying organizations as micro, sme or large.",
   "compatibility": ">=1.1.0",
   "dependencies": []
 }
