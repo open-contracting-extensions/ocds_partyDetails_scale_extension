@@ -41,3 +41,7 @@ The following example shows the location where the partyScale extension can be u
 ]
 }
 ```
+
+## Issues
+
+Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
