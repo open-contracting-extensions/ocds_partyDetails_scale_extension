@@ -3,8 +3,6 @@
     "Organization": {
       "properties": {
         "details":{
-            "description":"Additional classification information about parties can be provided using partyDetail extensions that define particular properties and classification schemes.",
-            "type":["object","null"],
             "properties":{
                 "scale":{
                     "title":"Scale",
