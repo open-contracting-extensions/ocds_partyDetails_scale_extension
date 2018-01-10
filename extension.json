@@ -10,5 +10,8 @@
   ],
   "documentationUrl": {
     "en": "https://github.com/open-contracting/ocds_partyDetails_scale_extension"
-  }
+  },
+  "codelists": [
+    "partyScale.csv"
+  ]
 }
