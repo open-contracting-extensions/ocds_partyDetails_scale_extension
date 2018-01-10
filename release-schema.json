@@ -18,7 +18,7 @@
                 "",
                 null
               ],
-              "codelist":"partyScale.csv",
+              "codelist": "partyScale.csv",
               "openCodelist": false
             }
           }
