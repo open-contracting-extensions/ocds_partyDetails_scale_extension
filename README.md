@@ -2,11 +2,11 @@
 
 This is a Party Details extension. It adds support for the detailed classification of one or more of the organizations included in an OCDS contracting process release.
 
-The ```scale``` field should be included in a release at ```parties/details/scale```
+The `scale` field should be included in a release at `parties/details/scale`.
 
 ## Scale
 
-The ```scale``` property can be used to indicate the size or scale of a commercial organization.
+The `scale` property can be used to indicate the size or scale of a commercial organization.
 
 This is a metric used by a number of procurement statistics. For example, to calculate the share of procurement going to micro, small or medium enterprises.
 
