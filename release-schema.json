@@ -15,7 +15,6 @@
                 "micro",
                 "sme",
                 "large",
-                "",
                 null
               ],
               "codelist": "partyScale.csv",
