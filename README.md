@@ -26,19 +26,19 @@ The following example shows the location where the partyScale extension can be u
 
 ```json
 {
-"releases":[
+  "releases": [
     {
-       "parties":[
-          {
-            "id": "GB-COH-1234567844",
-            "name": "AnyCorp Cycle Provision",
-            "details":{
-               "scale":"sme"
-            }
+      "parties": [
+        {
+          "id": "GB-COH-1234567844",
+          "name": "AnyCorp Cycle Provision",
+          "details": {
+            "scale": "sme"
           }
-       ]
+        }
+      ]
     }
-]
+  ]
 }
 ```
 
