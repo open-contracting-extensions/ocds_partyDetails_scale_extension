@@ -22,21 +22,15 @@ Laws and regulations vary as to the exact definition of these terms. The OECD [p
 
 ## Example
 
-The following example shows the location where the partyScale extension can be used.
-
 ```json
 {
-  "releases": [
+  "parties": [
     {
-      "parties": [
-        {
-          "id": "GB-COH-1234567844",
-          "name": "AnyCorp Cycle Provision",
-          "details": {
-            "scale": "sme"
-          }
-        }
-      ]
+      "id": "GB-COH-1234567844",
+      "name": "AnyCorp Cycle Provision",
+      "details": {
+        "scale": "sme"
+      }
     }
   ]
 }
