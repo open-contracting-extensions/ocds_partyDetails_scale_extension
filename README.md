@@ -2,7 +2,7 @@
 
 This is a Party Details extension. It adds support for the detailed classification of one or more of the organizations included in an OCDS contracting process release.
 
-The `scale` field should be included in a release at `parties/details/scale`.
+The `scale` field should be included in a release at `parties.details.scale`.
 
 ## Scale
 
