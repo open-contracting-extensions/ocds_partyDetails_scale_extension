@@ -22,6 +22,12 @@ The codes in the `partyScale.csv` codelist do not have precise definitions, and 
 }
 ```
 
+## Changelog
+
+### 2020-03-10
+
+* Add 'small' and 'medium' codes to `partyScale.csv`
+
 ## Issues
 
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
