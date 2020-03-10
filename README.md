@@ -28,6 +28,18 @@ The codes in the `partyScale.csv` codelist do not have precise definitions, and 
 
 * Add 'small' and 'medium' codes to `partyScale.csv`
 
+### 2018-05-22
+
+* Add description to 'large' code in `partyScale.csv`
+
+### 2018-05-21
+
+* Remove '' code from `partyScale.csv`
+
+### 2018-01-09
+
+* Add partyScale.csv codelist for `Organization.details.scale`
+
 ## Issues
 
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
