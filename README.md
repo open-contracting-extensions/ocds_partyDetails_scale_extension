@@ -2,9 +2,17 @@
 
 This extension adds a `scale` field to the `parties.details` object, to indicate the size or scale of an organization, in particular commercial enterprises or economic operators.
 
-This information can be used to calculate procurement statistics, like the share of contracts awarded to micro, small or medium enterprises.
+This information can be used to calculate procurement statistics, like the share of contracts awarded to micro, small and medium-sized enterprises.
 
-The codes in the `partyScale.csv` codelist do not have precise definitions, and instead defer to local laws and regulations. For reference, here is the [OECD definition of Small and Medium-Sized Enterprises](https://stats.oecd.org/glossary/detail.asp?ID=3123).
+The codes in the `partyScale.csv` codelist do not have precise definitions, and instead defer to local laws and regulations, for example:
+
+* [OECD: Small and Medium-Sized Enterprises (SMEs) definition](https://stats.oecd.org/glossary/detail.asp?ID=3123)
+* [European Commission: What is an SME?](https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en)
+
+## Guidance
+
+* For small and medium-sized enterprises, if you can distinguish between the two sizes, use the 'small' and 'medium' codes. Otherwise, use the 'sme' code.
+* For self-employed individuals, sole traders, and enterprises without employees, use the 'micro' code. (This aligns with all laws and regulations we have seen so far.)
 
 ## Example
 
@@ -23,6 +31,10 @@ The codes in the `partyScale.csv` codelist do not have precise definitions, and 
 ```
 
 ## Changelog
+
+### 2020-03-11
+
+* Clarify use of codes
 
 ### 2020-03-10
 
