@@ -32,6 +32,10 @@ The codes in the `partyScale.csv` codelist do not have precise definitions, and 
 
 ## Changelog
 
+### 2020-04-24
+
+* Add `minProperties`, `minItems` and/or `minLength` properties.
+
 ### 2020-03-11
 
 * Clarify use of codes
