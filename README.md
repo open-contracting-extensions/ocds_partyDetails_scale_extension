@@ -41,7 +41,7 @@ For enterprises without employees, use the 'micro' code.
 
 ### 2020-04-24
 
-* Add `minProperties`, `minItems` and/or `minLength` properties.
+* Add `minProperties`, `minItems` and/or `minLength` properties
 
 ### 2020-03-11
 
