@@ -11,8 +11,11 @@ The codes in the `partyScale.csv` codelist do not have precise definitions, and 
 
 ## Guidance
 
-* For small and medium-sized enterprises, if you can distinguish between the two sizes, use the 'small' and 'medium' codes. Otherwise, use the 'sme' code.
-* For self-employed individuals, sole traders, and enterprises without employees, use the 'micro' code. (This aligns with all laws and regulations we have seen so far.)
+For small and medium-sized enterprises, if you can distinguish between the two sizes, use the 'small' and 'medium' codes. Otherwise, use the 'sme' code.
+
+For self-employed individuals and sole traders, if you can distinguish them from micro enterprises, use the 'selfEmployed' code. Otherwise, use the 'micro' code.
+
+For enterprises without employees, use the 'micro' code.
 
 ## Example
 
@@ -31,6 +34,10 @@ The codes in the `partyScale.csv` codelist do not have precise definitions, and 
 ```
 
 ## Changelog
+
+### 2020-05-20
+
+* Add 'selfEmployed' code to `partyScale.csv`
 
 ### 2020-04-24
 
