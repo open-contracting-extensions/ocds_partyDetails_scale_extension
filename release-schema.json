@@ -17,6 +17,7 @@
                 "small",
                 "medium",
                 "large",
+                "selfEmployed",
                 null
               ],
               "codelist": "partyScale.csv",
