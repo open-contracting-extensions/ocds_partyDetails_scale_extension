@@ -1,4 +1,4 @@
-# Party Details - Scale
+# Organization scale
 
 This extension adds a `scale` field to the `parties.details` object, to indicate the size or scale of an organization, in particular commercial enterprises or economic operators.
 
