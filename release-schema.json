@@ -11,6 +11,8 @@
                 "string",
                 "null"
               ],
+              "codelist": "partyScale.csv",
+              "openCodelist": false,
               "enum": [
                 "micro",
                 "sme",
@@ -19,9 +21,7 @@
                 "large",
                 "selfEmployed",
                 null
-              ],
-              "codelist": "partyScale.csv",
-              "openCodelist": false
+              ]
             }
           }
         }
