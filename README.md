@@ -37,31 +37,31 @@ For enterprises without employees, use the 'micro' code.
 
 ### 2020-05-20
 
-* Add 'selfEmployed' code to `partyScale.csv`
+* Add 'selfEmployed' code to the `partyScale.csv` codelist.
 
 ### 2020-04-24
 
-* Add `minProperties`, `minItems` and/or `minLength` properties
+* Add `minProperties`, `minItems` and/or `minLength` properties.
 
 ### 2020-03-11
 
-* Clarify use of codes
+* Clarify use of codes.
 
 ### 2020-03-10
 
-* Add 'small' and 'medium' codes to `partyScale.csv`
+* Add 'small' and 'medium' codes to the `partyScale.csv` codelist.
 
 ### 2018-05-22
 
-* Add description to 'large' code in `partyScale.csv`
+* Add Description to 'large' code in the `partyScale.csv` codelist.
 
 ### 2018-05-21
 
-* Remove '' code from `partyScale.csv`
+* Remove '' (blank) code from the `partyScale.csv` codelist.
 
 ### 2018-01-09
 
-* Add partyScale.csv codelist for `Organization.details.scale`
+* Add a `partyScale.csv` codelist to `Organization.details.scale`.
 
 ## Issues
 
